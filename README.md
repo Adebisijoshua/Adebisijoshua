@@ -6,6 +6,6 @@
 
 💞️ I’m looking to collaborate on DevOps projects and cloud architecture.
 
-📫 How to reach me: adekunle8k@gmail.com---
+📫 How to reach me: adekunle8k@gmail.com
 
 My linkedin profile : https://www.linkedin.com/in/adekunle-joshua-8079911b8/ 
