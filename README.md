@@ -1,10 +1,21 @@
 👋 Hi, I’m @Adebisijoshua
+🚀 Senior DevOps Engineer | AWS Architect
 
-👀 I’m interested in DevOps and cloud computing.
+👀 Interests:
 
-🌱 I’m currently working as a DevOps Engineer and AWS Architect.
+    Automating infrastructure and CI/CD pipelines
+    Cloud computing (AWS, Azure, GCP)
+    Containerization and orchestration (Docker, Kubernetes)
 
-💞️ I’m looking to collaborate on DevOps projects and cloud architecture.
+💼 Currently Working On:
+
+    Building scalable cloud architectures
+    Enhancing DevOps processes for seamless software delivery
+
+💞️ Looking to Collaborate On:
+
+    Open-source DevOps tools and frameworks
+    Cloud migration and optimization projects
 
 📫 How to reach me: adekunle8k@gmail.com
 
